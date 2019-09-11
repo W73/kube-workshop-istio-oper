@@ -82,7 +82,7 @@ You should see your pod in the =Pending= state.
 
 ### Tasks
 
-- Look at [[https://github.com/kubernetes-client/python/blob/master/kubernetes/docs/V1Pod.md][Kubernetes Python API docs]] and adjust python script to print name of the requested scheduler too.
+- Look at [https://github.com/kubernetes-client/python/blob/master/kubernetes/docs/V1Pod.md](Kubernetes Python API docs) and adjust python script to print name of the requested scheduler too.
 
 ## Scheduling a Pod
 
