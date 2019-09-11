@@ -129,7 +129,7 @@ Check pod state by invoking:
 $ oc get pods
 ``` 
 
-*** TASK: Moving Your Scheduler Inside of Your Cluster
+### TASK: Moving Your Scheduler Inside of Your Cluster
 - Build this scheduler as a Docker image
 - Deploy it to the Kubernetes
 - Schedule a pod with it
